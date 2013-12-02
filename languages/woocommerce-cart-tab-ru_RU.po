@@ -1,0 +1,97 @@
+# This file is distributed under the same license as the WooCommerce Cart Tab package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2013-12-02 04:26+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11) ? 0 : ((n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20)) ? 1 : 2);\n"
+"X-Generator: Poedit 1.5.4\n"
+"Project-Id-Version: WooCommerce Cart Tab\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: cart-tab.php:43
+msgid "Cart Tab"
+msgstr ""
+
+#: cart-tab.php:48
+msgid "Cart Widget"
+msgstr "Виджет корзины"
+
+#: cart-tab.php:49
+msgid "Display the cart widget on hover"
+msgstr "Показывать виджет корзины при наведении"
+
+#: cart-tab.php:54
+msgid "Hide Empty Cart"
+msgstr "Скрывать пустую корзину"
+
+#: cart-tab.php:55
+msgid "Hide the cart tab if the cart is empty"
+msgstr "Скрывать таб корзины, если она пуста"
+
+#: cart-tab.php:60
+msgid "Use the light or dark skin"
+msgstr "Использовать светлый или тёмный шаблон"
+
+#: cart-tab.php:64
+msgid "Light"
+msgstr "Светлый"
+
+#: cart-tab.php:65
+msgid "Dark"
+msgstr "Тёмный"
+
+#: cart-tab.php:69
+msgid "Position the cart tab on the right or left"
+msgstr "Позиция корзины — справа или слева"
+
+#: cart-tab.php:73
+msgid "Right"
+msgstr "Справа"
+
+#: cart-tab.php:74
+msgid "Left"
+msgstr "Слева"
+
+#: cart-tab.php:173
+msgid "View your shopping cart"
+msgstr "Посмотреть свою корзину"
+
+#: cart-tab.php:176
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d товар в корзине"
+msgstr[1] "%d товара в корзине"
+msgstr[2] "%d товаров в корзине"
+
+#: cart-tab.php:0
+msgid "WooCommerce Cart Tab"
+msgstr ""
+
+#: cart-tab.php:0
+msgid "http://jameskoster.co.uk/tag/cart-tab/"
+msgstr ""
+
+#: cart-tab.php:0
+msgid ""
+"Displays a sitewide link to the cart which reveals the cart contents on "
+"hover."
+msgstr ""
+"Отображает на сайте ссылку в виде таба, который показывает содержимое "
+"корзины при наведении."
+
+#: cart-tab.php:0
+msgid "jameskoster"
+msgstr ""
+
+#: cart-tab.php:0
+msgid "http://jameskoster.co.uk"
+msgstr ""
+
+#: cart-tab.php:0
+msgid "0.1.1"
+msgstr ""
